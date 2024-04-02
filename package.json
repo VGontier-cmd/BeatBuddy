@@ -1,0 +1,20 @@
+{
+  "name": "beatbuddy",
+  "version": "1.0.0",
+  "description": "discord youtube bot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "VGontier-cmd",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "tweetnacl": "^1.0.3",
+    "youtube-sr": "^4.3.10",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {}
+}
